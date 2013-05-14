@@ -1,13 +1,13 @@
 /*
-  Noise Toy Shield
+  NoiseShield
   
   Demo sketch
   
   use this as a starting point for your own sketches
 */
 
-const int leftPin = 8;
-const int rightPin = 9;
+const int leftPin = 9;
+const int rightPin = 10;
 const int buttonOnePin = 5;
 const int buttonTwoPin = 6;
 const int buttonThreePin = 7;
